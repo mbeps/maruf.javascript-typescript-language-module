@@ -1,0 +1,21 @@
+{
+    "name": "javascript-typescript-extension-pack",
+    "displayName": "JavaScript TypeScript Extension Pack",
+    "description": "Collection of extensions for JavaScript and TypeScript only",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint",
+        "kavod-io.vscode-jest-test-adapter",
+		"firsttris.vscode-jest-runner",
+		"Orta.vscode-jest",
+        "christian-kohler.npm-intellisense",
+		"eg2.vscode-npm-script"
+    ]
+}
