@@ -1,6 +1,6 @@
 {
-    "name": "javascript-typescript-extension-pack",
-    "displayName": "JavaScript TypeScript Extension Pack",
+    "name": "javascript-typescript-language-module",
+    "displayName": "JavaScript TypeScript Language Module",
     "description": "Collection of extensions for JavaScript and TypeScript only",
     "version": "0.0.1",
     "publisher": "Maruf",
