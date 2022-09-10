@@ -15,6 +15,7 @@
         "kavod-io.vscode-jest-test-adapter",
 		"firsttris.vscode-jest-runner",
 		"Orta.vscode-jest",
-        "christian-kohler.npm-intellisense"
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode"
     ]
 }
