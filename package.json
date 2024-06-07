@@ -2,7 +2,7 @@
     "name": "javascript-typescript-language-module",
     "displayName": "JavaScript TypeScript Language Module",
     "description": "Collection of extensions for JavaScript and TypeScript only",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.javascript-typescript-language-module",
     "engines": {
@@ -11,11 +11,11 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "dbaeumer.vscode-eslint",
-        "kavod-io.vscode-jest-test-adapter",
-		"firsttris.vscode-jest-runner",
-		"Orta.vscode-jest",
+        "vitest.explorer",
+        "firsttris.vscode-jest-runner",
+        "Orta.vscode-jest",
         "christian-kohler.npm-intellisense",
         "esbenp.prettier-vscode"
     ]
